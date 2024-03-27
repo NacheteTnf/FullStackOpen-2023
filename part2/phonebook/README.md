@@ -1,4 +1,4 @@
-# Segundo ejercicio de la Parte 2 del Bootcamp FullStackOpen (phonebook) (2.6-2.11)
+# Segundo ejercicio de la Parte 2 del Bootcamp FullStackOpen (phonebook) (2.6-2.17)
 
 Primero practicamos obteniendo datos de un objeto y pintandolo usando estados(hooks), utilizamos condicionales y algunos metodos para filtrado como el some y el filter de javascript y por ultimo terminamos usando json-server y obteniendo los datos del lado del backend mediante la libreria axios.
 
